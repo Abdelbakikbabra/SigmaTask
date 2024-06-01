@@ -60,6 +60,7 @@ C:\Users\hiyo\source\repos\TestTask\TestTask.API\obj\Debug\net7.0\TestTask.API.A
 C:\Users\hiyo\source\repos\TestTask\TestTask.API\obj\Debug\net7.0\TestTask.API.csproj.CoreCompileInputs.cache
 C:\Users\hiyo\source\repos\TestTask\TestTask.API\obj\Debug\net7.0\TestTask.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\hiyo\source\repos\TestTask\TestTask.API\obj\Debug\net7.0\TestTask.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hiyo\source\repos\TestTask\TestTask.API\obj\Debug\net7.0\TestTask.API.sourcelink.json
 C:\Users\hiyo\source\repos\TestTask\TestTask.API\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\hiyo\source\repos\TestTask\TestTask.API\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\hiyo\source\repos\TestTask\TestTask.API\obj\Debug\net7.0\staticwebassets\msbuild.TestTask.API.Microsoft.AspNetCore.StaticWebAssets.props
