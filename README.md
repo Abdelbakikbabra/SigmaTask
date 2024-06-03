@@ -22,7 +22,7 @@ Prerequisites
 - Visual Studio or any other C# compatible IDE (visual code with c# extensions)
 
 Installation
-- Clone the repository: git clone https://github.com/abdelbakikbabra/TestTask.git
+- Clone the repository: git clone https://github.com/abdelbakikbabra/SigmaTask.git
 - Update the connection string in your "appsettings.json"
 - runa database migration : dotnet ef database update
   and then run the app
